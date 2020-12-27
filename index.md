@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+### About Me
 
-You can use the [editor on GitHub](https://github.com/ChrisHergert/Chrishergert.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Data Analyst with the Collection Development Department at the University of North Texas Libraries, and a PhD student at the UNT Department of Computer Science. In my work with the library, I'm the creator and current maintainer for the PySUSHI library (used for automating SUSHI data collection and pipeline development), as well as an active researcher in forecasting usage trends and library resource classification. I'm a relatively recent arrival in the world of libraries; I previously worked at AccentCare Inc, where I developed the PaSeMPB system for patient classification. If you've found this site because you saw me at a conference talking about PySUSHI or PaSeMPB, feel free to drop me a line via my email in my profile and say hi!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2020 Conference Speaking Schedule:
+ER&L, Core Forum, CTLC
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Active Projects
+Release 2 of PySUSHI is available [here](https://github.com/unt-libraries/PySUSHI), and release 3.0 is on-track to be release in mid-2021 with a reworked and expanded GUI, along with the necessary numerical expansions for integrated forecasting.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisHergert/Chrishergert.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Inactive Projects
+PaSeMPB development has gone dormant since 2019, as every member of our team has now moved on to new adventures.
